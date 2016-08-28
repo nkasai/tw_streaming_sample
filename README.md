@@ -9,7 +9,7 @@ Twitter Streaming API sample program.
 
 * Python3
 
-* tweepy
+* [tweepy](https://github.com/tweepy/tweepy)
 
 ## Usage
 
@@ -21,7 +21,7 @@ Twitter Streaming API sample program.
 
 ## Licence
 
-[MIT]
+MIT
 
 ## Author
 
